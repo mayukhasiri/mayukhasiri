@@ -1,5 +1,5 @@
 <h1>Hi there! I'm Mayukha <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width= "40px"/></h1><br>
-<body> Im a Sri Lankan student currently studying Computer Science. I am interested in Project Management, QA engineering and automation and Business Analysis.<br>
+<body> I,m a Sri Lankan student currently studying Computer Science. I am interested in Project Management, QA engineering, automation and business analysis.<br>
   Oh and I <b>code</b> as well 😎.<br><br>
 
 - 🔭 I’m currently working on on my GitHub profile.
