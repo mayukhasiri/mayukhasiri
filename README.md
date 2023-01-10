@@ -27,4 +27,6 @@
     <img src="https://img.icons8.com/color/48/null/html-5--v1.png" width = 30px title = "HTML 5">
     <!--CSS-->
     <img src="https://img.icons8.com/color/48/null/css3.png" width = 30px title = "CSS">
+    <!--PHP-->
+    <img src="https://github.com/mayukhasiri/mayukhasiri/blob/bfdf5aea1d01249ca6ba810b99afc9b6b0ad633e/icons/php.png" width = 30px title = "PHP">
   </p>
