@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on on my GitHub profile.
 - 🌱 I’m currently learning python and project management.
-- 💬 Ask me about kottu(a popular street food in Sri Lanka <img src = "https://www.flaticon.com/free-icon/sri-lanka_555441?term=sri+lanka&page=1&position=7&origin=search&related_id=555441" width = "10px"> )
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 💬 Ask me about codes,kottu(A popular street food in Sri Lanka) and cars.
+- 📫 How to reach me: mayukhasiriwardena@gmail.com
+- 🔗 For my social checkout my linktree : https://linktr.ee/mayukhasiri
 - ⚡ Fun fact: ...
