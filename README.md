@@ -17,6 +17,8 @@
     <img src="https://img.icons8.com/color/48/null/c-plus-plus-logo.png" width = 30px>
     <!--C#-->
     <img src="https://img.icons8.com/color/48/null/c-sharp-logo.png" width = 30px>
+    <!--.net-->
+    <img src="icons/Microsoft-.Net-Framework-Logo.png" width = 30px title = ".net">
     <!--Java-->
     <img src="https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png" width = 30px>
     <!--js-->
@@ -39,4 +41,8 @@
     <img src="icons/mysql.png" width = 30px title = "mysql">
     <!--Bootstrap-->
     <img src="icons/bootstrap.png" width = 30px title = "Bootstrap">
+    <!--Kotlin-->
+    <img src="icons/Kotlin.png" width = 30px title = "Kotlin">
+    <!--Firebase-->
+    <img src="icons/firebase.png" width = 30px title = "firebase">
   </p>
