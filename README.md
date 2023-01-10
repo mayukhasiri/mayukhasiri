@@ -6,19 +6,11 @@
 - 🌱 I’m currently learning python and project management.
 - 💬 Ask me about codes, kottu(A popular street food in Sri Lanka) and cars.
 - 📫 How to reach me: mayukhasiriwardena@gmail.com
-- 🔗 For my social checkout my linktree : https://linktr.ee/mayukhasiri
+- 🔗 For my socials checkout my linktree : https://linktr.ee/mayukhasiri
 - ⚡ Fun fact: I love driving in the night, going on trips and sailing.
   
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
   <p>
-    <!--C-->
-    <img src="https://img.icons8.com/color/48/null/c-programming.png" width = 30px>
-    <!--C++-->
-    <img src="https://img.icons8.com/color/48/null/c-plus-plus-logo.png" width = 30px>
-    <!--C#-->
-    <img src="https://img.icons8.com/color/48/null/c-sharp-logo.png" width = 30px>
-    <!--.net-->
-    <img src="icons/Microsoft-.Net-Framework-Logo.png" width = 30px title = ".net">
     <!--Java-->
     <img src="https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png" width = 30px>
     <!--js-->
@@ -45,4 +37,27 @@
     <img src="icons/Kotlin.png" width = 30px title = "Kotlin">
     <!--Firebase-->
     <img src="icons/firebase.png" width = 30px title = "firebase">
+    <!--Arduino-->
+    <!--.net-->
+    <img src="icons/arduino.png" width = 30px title = "arduino">
+    <!--C-->
+    <img src="https://img.icons8.com/color/48/null/c-programming.png" width = 30px>
+    <!--C++-->
+    <img src="https://img.icons8.com/color/48/null/c-plus-plus-logo.png" width = 30px>
+    <!--C#-->
+    <img src="https://img.icons8.com/color/48/null/c-sharp-logo.png" width = 30px>
+    <!--.net-->
+    <img src="icons/Microsoft-.Net-Framework-Logo.png" width = 30px title = ".net">
   </p>
+  
+  <h6>Connect with me <br>
+  <a href="https://www.linkedin.com/in/mayukha-siriwardena-069128142" target="blank">
+    <img align="center" src = "https://github.com/yunethw/yunethw/blob/b9c4358dcccca65163e3ebf73c4d9da93212e3f3/icons/icons8-linkedin-48.png" height = 24px>
+  </a>
+  <a href="https://www.facebook.com/mayukha.siriwardena/" target="blank">
+    <img align="center" src = "https://github.com/yunethw/yunethw/blob/b9c4358dcccca65163e3ebf73c4d9da93212e3f3/icons/icons8-facebook-48%20(1).png" height = 24px>
+  </a>
+  <a href="https://www.instagram.com/mayukhasiriwardena/" target="blank">
+    <img align="center" src = "https://github.com/yunethw/yunethw/blob/b9c4358dcccca65163e3ebf73c4d9da93212e3f3/icons/icons8-instagram-48%20(1).png" height = 24px>
+  </a>
+</h6>
