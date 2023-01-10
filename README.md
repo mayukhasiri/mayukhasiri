@@ -1,4 +1,5 @@
-<h1>Hi there! I'm Mayukha <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width= "30px"/></h1>
+<h1>Hi there! I'm Mayukha <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width= "40px"/></h1><br>
+<body> Im a Sri Lankan student currently studying Computer Science.I am interested in Project Management, QA engineering and automation , Business Analysis and I <b>code</b> as well 😎.
 
 <!--
 **mayukhasiri/mayukhasiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
