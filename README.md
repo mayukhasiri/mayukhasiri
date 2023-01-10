@@ -29,4 +29,14 @@
     <img src="https://img.icons8.com/color/48/null/css3.png" width = 30px title = "CSS">
     <!--PHP-->
     <img src="icons/php.png" width = 30px title = "PHP">
+    <!--Springboot-->
+    <img src="icons/springboot.png" width = 30px title = "Spring Boot">
+    <!--GitHub-->
+    <img src="icons/github.png" width = 30px title = "GitHub">
+    <!--Postman-->
+    <img src="icons/postman-icon.png" width = 30px title = "Postman">
+    <!--mysql-->
+    <img src="icons/mysql.png" width = 30px title = "mysql">
+    <!--Bootstrap-->
+    <img src="icons/bootstrap.png" width = 30px title = "Bootstrap">
   </p>
